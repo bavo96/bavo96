@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm bavo</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iron-e&label=Profile%20views%20since%202021-07-07&color=0e75b6&style=flat" alt="iron-e" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iron-e&label=Profile%20views%20since%202021-07-07&color=0e75b6&style=flat" alt="bavo" /> </p>
 
 ![Iron-E's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iron-E&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
 

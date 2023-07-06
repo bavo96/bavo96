@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iron-e&label=Profile%20views%20since%202021-07-07&color=0e75b6&style=flat" alt="bavo" /> </p>
 [![bavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bavo96)](https://github.com/anuraghazra/github-readme-stats)
-
 # ![bavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iron-E&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
 
 - 🔭 I’m currently working on [barbar.nvim](https://github.com/romgrk/barbar.nvim) and [nvim-highlite](https://github.com/Iron-E/nvim-highlite)

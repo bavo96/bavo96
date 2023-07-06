@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iron-e&label=Profile%20views%20since%202021-07-07&color=0e75b6&style=flat" alt="bavo" /> </p>
 
-![bavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bavo96)
+![bavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bavo96&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
 
 # ![bavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iron-E&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
 

@@ -4,8 +4,6 @@
 
 ![bavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bavo96&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
 
-# ![bavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Iron-E&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight)
-
 - 🔭 I’m currently working on [barbar.nvim](https://github.com/romgrk/barbar.nvim) and [nvim-highlite](https://github.com/Iron-E/nvim-highlite)
 
 - 🌱 I’m currently learning **TreeSitter**

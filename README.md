@@ -1,12 +1,12 @@
 ![Header](./bavo-header.png)
 
+An aspiring AI Engineer with a background in Artificial Intelligence, Machine Learning, and Computer Vision. A fast learner who delved into knowledge and was dedicated to producing good quality service.
+
 [![bavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bavo96&theme=gruvbox&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 - 📫 Reach me at **bavo.imp@gmail.com**
 
-
-
-<h3 align="left">Languages and Tools:</h3>
+## Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=python,c,cpp,aws,azure,flask,git,grafana,ai,kubernetes,linux,lua,mongodb,mysql,neovim,pytorch,tensorflow,vim)](https://skillicons.dev)
 

@@ -2,8 +2,6 @@
 
 [![bavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bavo)](https://github.com/anuraghazra/github-readme-stats)
 
-![bavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bavo96)
-
 - 📫 Reach me at **bavo.imp@gmail.com**
 
 

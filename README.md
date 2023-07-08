@@ -8,7 +8,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,aws,azure,flask,git,grafana,ai,kubernetes,linux,lua,mongodb,mysql,neovim,pytorch,tensorflow,vim)](https://skillicons.dev)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bavo96)](https://github.com/anuraghazra/github-readme-stats)

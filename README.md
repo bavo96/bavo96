@@ -12,13 +12,17 @@
   <a href="mailto:bavo.imp@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  &nbsp;&nbsp;
+    &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/voquocbangcs/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>  
-  &nbsp;&nbsp;
+    &nbsp;&nbsp;
   <a href="https://scholar.google.com.vn/citations?user=nrv3C7UAAAAJ&hl=vi">
     <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white">
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://github.com/bavo96">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
 

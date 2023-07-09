@@ -2,9 +2,11 @@
 
 An aspiring AI Engineer with a background in Artificial Intelligence, Machine Learning, and Computer Vision. A fast learner who delved into knowledge and was dedicated to producing good quality service.
 
-[![bavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bavo96&theme=gruvbox&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
 - 📫 Reach me at **bavo.imp@gmail.com**
+
+## Github stats
+
+[![bavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bavo96&theme=gruvbox&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools
 

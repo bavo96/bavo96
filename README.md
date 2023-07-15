@@ -30,7 +30,7 @@
 
 [![bavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=bavo96&theme=gruvbox&show_icons=true&include_all_commits=true&hide=contribs)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bavo96&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bavo96&layout=pie&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages and Tools
 
